@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="20mm" height="30mm" viewBox="0 0 56.69 85.04">
+
+<g id="copper1">
+	<g id="copper0">
+		<rect id="square" x="36.625"  y="62.195" stroke="#ff9400" stroke-width="2.08" width="5.15" height="5.15" fill="none"/>
+		<circle id="connector0pin"  cx="16.52" cy="64.77" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector1pin"  cx="12.7"  cy="55.26" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector2pin"  cx="12.33" cy="42.56" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector3pin"  cx="12.7"  cy="29.87" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+
+		<circle id="connector4pin"  cx="16.52" cy="20.34" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector5pin"  cx="27.95" cy="17.49" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector6pin"  cx="39.2"  cy="20.34" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector7pin"  cx="43.99" cy="29.87" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector8pin"  cx="44.36" cy="42.56" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector9pin"  cx="43.99" cy="55.26" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+
+		<circle id="connector10pin" cx="39.2"  cy="64.77" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="connector11pin" cx="27.95" cy="67.55" r="2.575" stroke="#ff9400" stroke-width="2.08" fill="none"/>
+		<circle id="hole" cx="28.345" cy="42.52" r="8" stroke="#ff9400" stroke-width="0.1" fill="none"/>
+	</g>
+</g>
+
+<g id="silkscreen">
+	<circle id="hole" cx="28.345" cy="42.52" r="10" stroke="#000000" stroke-width="1" fill="none"/>
+</g>
+
+</svg>
